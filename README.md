@@ -1,7 +1,7 @@
 # CRUD API
 
 
-Uber themed backend API.
+Uber themed backend API. Supports GeoJSON and geolocation queries.
 
 ### Project uses
 
